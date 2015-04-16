@@ -73,7 +73,7 @@ O nome do CSS deve seguir o padrão lowerCamelCase e deve estar em português.
 Ex. O CSS da lista de gerenciamente do padrão de código seria CodigoPadraoCadastro.css
 ```
 
-2. Configurando o phpValidator
+2. Configurando o phpValidator (Intellij / PHPStorm)
 --------
 
 > 1.1. Fazer checkout do projeto [Coding-Style-GUIDE](https://url)
@@ -92,3 +92,9 @@ Ex. O CSS da lista de gerenciamente do padrão de código seria CodigoPadraoCada
 
 > 1.8. No menu do Intellij vá em File e selecione a opção "Invalidate Caches / Restart..." escolha a opção "Invalidate and Restart" e assim que o seu Intellij terminar de reiniciar estará com o padrão de código todo configurado e pronto para ser usado.
 
+3. Configurando o phpValidator (Eclipe / ZendStudio)
+--------
+
+
+4. Configurando o phpValidator (NetBeans)
+--------
