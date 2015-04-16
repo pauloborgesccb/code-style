@@ -34,7 +34,7 @@ Ex. Para a controller de crud o nome dela ficaria CodigoPadraoController.php
 O nome do serviço deve fazer referencia ao contexto de suas ações.
 O nome do serviço deve seguir o padrão UpperCamelCase e deve estar em português e sufixado por Service.
 ```
-Ex. Para a minha Service de listagem de padrão de código o nome seria CodigoPadraoService.php
+Ex. Para a minha Service de ações de "padrão de código" o nome seria CodigoPadraoService.php
 ```
 
 ### 2.4 Entity
@@ -56,29 +56,29 @@ Ex. O repositorio da entidade CodigoPadraoEntity.php seria CodigoPadraoRepositor
 O nome de um form deve representar a ação que vai ser realizada nele.
 O nome de um form deve seguir o padrão lowerCamelCase e deve estar em português e sufixado por Form.
 ```
-Ex. O form do cadastro do padrão de código seria CodigoPadraoCadastroForm.php
+Ex. O form do cadastro do "padrão de código" seria CodigoPadraoCadastroForm.php
 ```
 
 ### 2.7 JS
 O nome do JS deve fazer referencia a view que ele vai ser utilizado ou a ação que ele vai executar quando utilizado.
 O nome do JS deve seguir o padrão lowerCamelCase e deve estar em português.
 ```
-Ex. O JS da lista de gerenciamente do padrão de código seria CodigoPadraoCadastro.js
+Ex. O JS da lista de gerenciamente do "padrão de código" seria CodigoPadraoCadastro.js
 ``` 
 
 ### 2.8 CSS
 O nome do CSS deve fazer referencia ao seu objetivo.
 O nome do CSS deve seguir o padrão lowerCamelCase e deve estar em português.
 ```
-Ex. O CSS da lista de gerenciamente do padrão de código seria CodigoPadraoCadastro.css
+Ex. O CSS da lista de gerenciamente do "padrão de código" seria CodigoPadraoCadastro.css
 ```
 
 2. Configurando o phpValidator (Intellij / PHPStorm)
 --------
 
-> 1.1. Fazer checkout do projeto [Coding-Style-GUIDE](https://url)
+> 1.1. Fazer checkout do projeto [code-style](https://github.com/pauloborgesccb/code-style)
 
-> 1.2. Importar no Intellij o arquivo [settings.jar](https://url/settings.jar) 
+> 1.2. Importar no Intellij o arquivo [settings.jar](https://github.com/pauloborgesccb/code-style/blob/master/settings.jar) 
 
 > 1.3. Ir em configurações do Intellij selecionar a opção PHP e configurar o php instalado na sua maquina.
 
