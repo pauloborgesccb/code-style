@@ -1,4 +1,4 @@
-Padrão de Desenvolvimento de Código
+Padrão de Desenvolvimento de Código PHP
 ==================
 
 Objetivo: Criar  uma  padronização de código para utilizar no code review tornando mais fácil o desenvolvimento e futuras manutenções.
