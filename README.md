@@ -6,7 +6,7 @@ Objetivo: Criar  uma  padronização de código para utilizar no code review tor
 Metas e objetivos: 
 
 •	Ter um padrão de código para fazer um code review com qualidade.
-•	Manutenção e a evolução de código mais fácil.
+•	Manutenção e a evolução de código mais fácil. :)
 
 O padrão de código  a seguir se basea no **PSR-2**.
 
