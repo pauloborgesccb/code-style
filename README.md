@@ -1,19 +1,21 @@
 
 ##Iniciando projeto
 
+###Linux / MAC
+
 `$ ./sencha app init`
+
+
+###Windows:
+
+`$ npm install`
+
+`$ node_modules/.bin/bower install`
 
 
 ##Iniciando mock
 
 `$ ./sencha mock init
-
-
-##Em caso de máquina Windows utilize:
-
-`$ npm install`
-
-`$ node_modules/.bin/bower install`
 
 
 ##Alterações no SASS em tempo real
