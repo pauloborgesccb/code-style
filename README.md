@@ -37,17 +37,17 @@
 `$ node_modules/.bin/gulp cpd`
 
 
-##Build's :feelsgood:
+##Build's :nut_and_bolt:
 
-####Android
+####Android :hurtrealbad:
 
 `$ ./sencha app build ios AMBIENTE_DESEJADO(development, staging ou production)`
 
-####IOS
+####IOS :feelsgood:
 
 `$ ./sencha app build ios env AMBIENTE_DESEJADO(development, staging ou production)`
 
-####Windows Phone
+####Windows Phone :finnadie:
 
 `$ sencha config prop envAMBIENTE_DESEJADO(development, staging ou production) then app build wp8`
 
