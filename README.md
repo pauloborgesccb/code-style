@@ -55,6 +55,7 @@
 `./cordova/platforms/ios/NOME_DO_PROJETO.xcodeproj`
 
 >Na barra superior à esquerda, selecione o dispositivo
+
 >Na barra superior à esquerda, clique no play :arrow_forward:, para instalar no dispositivo.
 
 ####Windows Phone :finnadie:
@@ -63,5 +64,6 @@
 ###Abra o projeto localizado em:
 `"./cordova/platforms/wp8/"`
 >Na barra superior à esquerda, selecione no play :arrow_forward: a opção device
+
 >Na barra superior à esquerda, clique no play :arrow_forward:, para instalar no dispositivo.
 
