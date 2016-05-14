@@ -1,9 +1,9 @@
-Padrão de Desenvolvimento de Código PHP
+Padrão de Desenvolvimento de Código PHP :feelsgood:
 ==================
 
 Objetivo: Criar  uma  padronização de código para utilizar no code review tornando mais fácil o desenvolvimento e futuras manutenções.
 
-Metas e objetivos: 
+Metas e objetivos:
 
 •	Ter um padrão de código para fazer um code review com qualidade.
 •	Manutenção e a evolução de código mais fácil.
@@ -17,7 +17,7 @@ O padrão de código  a seguir se basea no **PSR-2**.
 Além do **PSR-2** algumas nomenclaturas para o nome de arquivos também foram pensadas:
 
 ### 2.1 Module
-O nome de um Module deve ter referencia ao objetivo do modulo que deseja criar, utilizando a lingua portuguesa no padrão de UpperCamelCase. 
+O nome de um Module deve ter referencia ao objetivo do modulo que deseja criar, utilizando a lingua portuguesa no padrão de UpperCamelCase.
 O Module deve ser criado no diretorio referente ao projeto, caso seja um module comum a todos (uteis da vida) deve se encontrar dentro do diretorio "Application".
 ```
 Ex. Quero criar um module de padrão de codigo, o nome dele ficaria CodigoPadraoModule
@@ -25,7 +25,7 @@ Ex. Quero criar um module de padrão de codigo, o nome dele ficaria CodigoPadrao
 
 ### 2.2 Controller
 O nome da controller devem fazer referencia ao contexto de suas ações.
-O nome de uma controller deve seguir o padrão UpperCamelCase e deve estar em português. 
+O nome de uma controller deve seguir o padrão UpperCamelCase e deve estar em português.
 ```
 Ex. Para a controller de crud o nome dela ficaria CodigoPadraoController.php
 ```
@@ -46,7 +46,7 @@ Ex. A tabela da entidade CodigoPadraoEntity.php seria tb_codigo_padrao e para a 
 ```
 
 ### 2.5 Repository
-Os repositórios devem ter o nome de acordo com a entidade que ele corresponde. 
+Os repositórios devem ter o nome de acordo com a entidade que ele corresponde.
 O nome do repositório deve seguir o padrão UpperCamelCase e deve estar em português e sufixado por Repository.
 ```
 Ex. O repositorio da entidade CodigoPadraoEntity.php seria CodigoPadraoRepository.php
@@ -64,7 +64,7 @@ O nome do JS deve fazer referencia a view que ele vai ser utilizado ou a ação 
 O nome do JS deve seguir o padrão lowerCamelCase e deve estar em português.
 ```
 Ex. O JS da lista de gerenciamente do "padrão de código" seria CodigoPadraoCadastro.js
-``` 
+```
 
 ### 2.8 CSS
 O nome do CSS deve fazer referencia ao seu objetivo.
@@ -78,7 +78,7 @@ Ex. O CSS da lista de gerenciamente do "padrão de código" seria CodigoPadraoCa
 
 > 1.1. Fazer checkout do projeto [code-style](https://github.com/pauloborgesccb/code-style)
 
-> 1.2. Importar no Intellij o arquivo [settings.jar](https://github.com/pauloborgesccb/code-style/blob/master/settings.jar) 
+> 1.2. Importar no Intellij o arquivo [settings.jar](https://github.com/pauloborgesccb/code-style/blob/master/settings.jar)
 
 > 1.3. Ir em configurações do Intellij selecionar a opção PHP e configurar o php instalado na sua maquina.
 
