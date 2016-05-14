@@ -28,7 +28,7 @@
 `$ ./sencha ant sass`
 
 
-##Vefificação de código com lint
+##Vefificação de código, complexidade, estilo, padrões e linhas duplicadas
 
 `$ node_modules/.bin/gulp lint`
 
