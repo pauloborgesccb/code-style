@@ -62,7 +62,6 @@
 `$ sencha config prop envAMBIENTE_DESEJADO(development, staging ou production) then app build wp8`
 ###Abra o projeto localizado em:
 `"./cordova/platforms/wp8/"`
-
-###Na barra superior à esquerda, selecione no play :arrow_forward: a opção device
-###Na barra superior à esquerda, clique no play :arrow_forward:, para instalar no dispositivo.
+>Na barra superior à esquerda, selecione no play :arrow_forward: a opção device
+>Na barra superior à esquerda, clique no play :arrow_forward:, para instalar no dispositivo.
 
