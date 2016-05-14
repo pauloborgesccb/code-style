@@ -1,34 +1,34 @@
 
-##Iniciando projeto
+##Iniciando projeto :sunglasses:
 
-###Linux / MAC
+###Linux :penguin: / MAC :apple:
 
 `$ ./sencha app init`
 
 
-###Windows:
+###Windows :bomb:
 
 `$ npm install`
 
 `$ node_modules/.bin/bower install`
 
 
-##Iniciando mock
+##Iniciando mock :shipit:
 
 `$ ./sencha mock init`
 
 
-##Alterações no SASS em tempo real
+##Alterações no SASS em tempo real :bowtie:
 
 `$ ./sencha app watch`
 
 
-##Compilar SASS
+##Compilar SASS :bowtie:
 
 `$ ./sencha ant sass`
 
 
-##Vefificação de código, complexidade, estilo, padrões e linhas duplicadas
+##Vefificação de código, complexidade, estilo, padrões e linhas duplicadas :mag:
 
 `$ node_modules/.bin/gulp lint`
 
