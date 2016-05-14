@@ -15,7 +15,7 @@
 
 ##Iniciando mock
 
-`$ ./sencha mock init
+`$ ./sencha mock init`
 
 
 ##Alterações no SASS em tempo real
