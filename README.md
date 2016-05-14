@@ -1,33 +1,33 @@
 
 ##Iniciando projeto
-------------------
+
 `$ ./sencha app init`
 
 
 ##Iniciando mock
-------------------
+
 `$ ./sencha mock init
 
 
 ##Em caso de máquina Windows utilize:
-------------------
+
 `$ npm install`
 
 `$ node_modules/.bin/bower install`
 
 
 ##Alterações no SASS em tempo real
-------------------
+
 `$ ./sencha app watch`
 
 
 ##Compilar SASS
-------------------
+
 `$ ./sencha ant sass`
 
 
 ##Vefificação de código com lint
-------------------
+
 `$ node_modules/.bin/gulp lint`
 
 `$ node_modules/.bin/gulp cs`
@@ -36,18 +36,18 @@
 
 
 ##Build's :feelsgood:
-------------------
+
 ####Android
-------------------
+
 `$ ./sencha app build ios AMBIENTE_DESEJADO(development, staging ou production)`
 
 ####IOS
-------------------
-`$ ./sencha app build ios --env AMBIENTE_DESEJADO(development, staging ou production)`
+
+`$ ./sencha app build ios env AMBIENTE_DESEJADO(development, staging ou production)`
 
 ####Windows Phone
-------------------
-`$ sencha config -prop env-AMBIENTE_DESEJADO(development, staging ou production) then app build wp8`
+
+`$ sencha config prop envAMBIENTE_DESEJADO(development, staging ou production) then app build wp8`
 
 
 
